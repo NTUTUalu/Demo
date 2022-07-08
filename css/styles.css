@@ -38,3 +38,10 @@ body {
 .navbar-light {
     background-color: purple;
 }
+
+.tab-content {
+    border-left: 1px solid lightblue;
+    border-right: 1px solid lightblue;
+    border-bottom: 1px solid lightblue;
+    padding: 10px;
+}
